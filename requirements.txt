@@ -3,7 +3,7 @@ omegaconf
 torchaudio
 einops
 numpy
-transformers==4.48.1
+transformers==4.53.0
 sentencepiece
 tqdm
 tensorboard
